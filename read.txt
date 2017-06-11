@@ -1,0 +1,10 @@
+---Usefull resources used--
+bootswatch
+animate.css
+font-awesome
+getbootstrap
+getmap
+cssmatic
+ckeditor.com/tinymce.com
+kcfinder.com
+net2ftp.com
